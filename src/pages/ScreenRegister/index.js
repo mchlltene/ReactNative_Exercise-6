@@ -67,7 +67,7 @@ console.log(data);
             
             
             </ScrollView>
-            </View>
+        </View>
 
             
             
